@@ -1,2 +1,6 @@
 # Cross-Domain Sclera Segmentation in Less-constrained Environments Via Meta-Episodic Learning
-by Caiyong Wang, Haiqing Li, Guangzhe Zhaoa, Zhaofeng He, Zhenan Sun
+[todo]
+Release the dataset of the Cross-Domain Sclera Attribute (CDSA).
+Release the evaluation code.
+# Introduction
+We proposed a new cross-domain sclera segmentation model, named MELSS and a novel cross-domain sclera attribute dataset. The paper has been submitted for possible publication. 
