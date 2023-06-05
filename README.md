@@ -1,3 +1,21 @@
 # MetaScleraSeg 
+We propose a novel meta learning framework for generalized sclera segmentation 
+## Prerequisites
+- Python 3.8
+-  NVIDIA GPU + CUDA CuDNN
+-  \>= PyTorch 1.8.0
 
-We proposed a new cross-domain sclera segmentation model, called *MetaScleraSeg*, and a novel cross-domain sclera segmentation dataset with attribute to improve the generalization of sclera segmentation. The paper has been submitted for possible publication. Once accepted, the codes and dataset will be publicly available.
+## Paper data and models
+- We build a Cross-Domain Sclera Segmentation (CDSS) dataset with diverse ethnicity and quality as domain labels to supplement the
+existing dataset. You can download the dataset as follows: [[Baidu Drive]](https://pan.baidu.com/s/1fSzUyebg1JH2Bp9u0mVW8w?pwd=1eoz)(1eoz)
+
+- The trained models can be downloaded via: [[Baidu Drive]]
+
+## How to run the code?
+
+```
+python test.py 
+```
+
+## Questions
+Please contact haiqing_li@stu.bucea.edu.cn
