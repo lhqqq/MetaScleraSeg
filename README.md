@@ -1,5 +1,7 @@
-# MetaScleraSeg 
-We propose a novel meta learning framework for generalized sclera segmentation 
+# MetaScleraSeg: An Effective Meta-Learning Framework for Generalized Sclera Segmentation
+This repository contains the official PyTorch implementation of:
+
+**MetaScleraSeg: An Effective Meta-Learning Framework for Generalized Sclera Segmentation**   
 ## Prerequisites
 - Python 3.8
 -  NVIDIA GPU + CUDA CuDNN
