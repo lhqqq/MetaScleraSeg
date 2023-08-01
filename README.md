@@ -17,7 +17,8 @@ existing dataset. You can download the dataset as follows: [[Baidu Drive]](https
 )
 
 - The trained models can be downloaded via: [[Baidu Drive]]
-- The code structure is based on
+- The code structure is based on [MTL-template](https://github.com/yaoyao-liu/meta-transfer-learning) and [Pytorch-Segmentation](https://github.com/yassouali/pytorch_segmentation). 
+
 ## How to run the code?
 
 ```
