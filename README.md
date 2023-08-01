@@ -3,7 +3,7 @@ This repository contains the official PyTorch implementation of:
 
 **MetaScleraSeg: An Effective Meta-Learning Framework for Generalized Sclera Segmentation**   
 
-![](image/flow3.pdf)
+![](image/flow.png)
 
 ## Prerequisites
 
