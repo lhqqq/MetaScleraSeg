@@ -7,7 +7,8 @@ We propose a novel meta learning framework for generalized sclera segmentation
 
 ## Paper data and models
 - We build a Cross-Domain Sclera Segmentation (CDSS) dataset with diverse ethnicity and quality as domain labels to supplement the
-existing dataset. You can download the dataset as follows: [[Baidu Drive]]()(1eoz)
+existing dataset. You can download the dataset as follows: [[Baidu Drive]](https://pan.baidu.com/s/1JvPfyNUxPFIBbYHvfkZW7A?pwd=k1hu 
+)
 
 - The trained models can be downloaded via: [[Baidu Drive]]
 
