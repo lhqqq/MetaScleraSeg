@@ -32,12 +32,12 @@ Please contact haiqing_li@stu.bucea.edu.cn
 If you find our work useful in your research, please consider citing:
 
    @article{wang2023metascleraseg,
-    title={MetaScleraSeg: an effective meta-learning framework for generalized sclera segmentation},
-    author={Wang, Caiyong and Li, Haiqing and Ma, Wenhui and Zhao, Guangzhe and He, Zhaofeng},
-    journal={Neural Computing and Applications},
-    volume={35},
-    number={29},
-    pages={21797--21826},
-    year={2023},
-    publisher={Springer}
+       title={MetaScleraSeg: an effective meta-learning framework for generalized sclera segmentation},
+       author={Wang, Caiyong and Li, Haiqing and Ma, Wenhui and Zhao, Guangzhe and He, Zhaofeng},
+       journal={Neural Computing and Applications},
+       volume={35},
+       number={29},
+       pages={21797--21826},
+       year={2023},
+       publisher={Springer}
 
